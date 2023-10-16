@@ -1,0 +1,14 @@
+/* src/components/Header.css */
+.header {
+    /* background-image: url('header-background.jpg'); */
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .header h1 {
+    font-size: 36px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: 0vh;
+  }
+  

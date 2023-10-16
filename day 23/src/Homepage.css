@@ -1,0 +1,21 @@
+
+.main{
+    background-image: url("bg.png");
+    background-size:contain;
+    display:flex;
+    width: 100vw;
+    height: 100vh;
+}
+.overlay{
+    background-color: rgba(255, 255, 255, 0.747);
+    background-size:contain;
+    display:flex;
+    width: 100vw;
+    height: 100vh;
+}
+.footer{
+    background-color: aqua;
+    margin-bottom: -50vh;
+    margin-top: -10.5vh;
+    z-index:1000;
+}
